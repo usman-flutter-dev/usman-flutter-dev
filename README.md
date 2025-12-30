@@ -1,13 +1,8 @@
 # Assalam-O-Alaikum! I'm Muhammad Usman  
 
 ### Flutter Developer | Firebase & API-Driven Mobile Apps | Building Scalable Apps for Startups & Businesses
-
----
-
 I build **Flutter mobile applications** with a strong focus on **clean UI**, **structured architecture**, and **Firebase-powered features**.  
 My work centers around turning real-world ideas into functional, maintainable apps using modern Flutter practices.
-
----
 
 ## 🔍 What I Can Do
 
