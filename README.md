@@ -45,6 +45,8 @@ Each project helped me strengthen my understanding of **Flutter UI**, **state ma
 </p>
 
 ---
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=usmanflutterdev.usmanflutterdev)
+---
 
 ## 🔗 Connect with Me
 
