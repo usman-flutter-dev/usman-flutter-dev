@@ -54,16 +54,16 @@ Each project helped me strengthen my understanding of **Flutter UI**, **state ma
 <a href="https://www.linkedin.com/in/usman-flutter-developer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/usman_flutter.dev/" target="_blank">
+<!-- <a href="https://www.instagram.com/usman_flutter.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/flutterappdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+</a> -->
 <a href="https://x.com/usmanflutterdev" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-<a href="mailto:musmangill68@gmail.com">
+<a href="mailto:contact@fluttergini.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
