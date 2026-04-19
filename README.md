@@ -9,7 +9,7 @@ My work centers around turning real-world ideas into functional, maintainable ap
 - Build **cross-platform mobile apps** using Flutter & Dart  
 - Design clean, responsive UI with reusable widgets  
 - Implement **MVVM architecture** for scalable codebases  
-- Use **GetX** for state management, navigation, and dependency injection  
+- Use **GetX**, **Riverpod** and **Provider** for state management, navigation, and dependency injection  
 - Integrate **Firebase** (Auth, Firestore, Realtime features)  
 - Consume and manage **REST APIs**  
 - Structure apps with readability, maintainability, and future growth in mind  
